@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+}
+
+h3{
+    color: blue;
+}
+
+#btnConvertir,#btnConvertir2,#btnConvertir3{
+    cursor: pointer;
+}
+
+#btnConvertir:hover{
+    background-color: aquamarine;
+}
+
+#btnConvertir2:hover{
+    background-color: aquamarine;
+}
+
+#btnConvertir3:hover{
+    background-color: aquamarine;
+}
+
+
+#error,#error2,#error3,#error5{
+    color: red;
+}
+
